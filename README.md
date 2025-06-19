@@ -73,6 +73,7 @@ Los Key Performance Indicators (KPIs) son métricas críticas diseñadas para me
 
 **Captura de Pantalla del Reporte:**
 ![Cierre de Caja - Neto Mensual](1-CierreNetoMensual.png)
+![1-CierreNetoMensual](https://github.com/user-attachments/assets/24890a1c-5e37-4243-ac73-11a0d9bdd83b)
 
 ---
 
